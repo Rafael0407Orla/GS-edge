@@ -12,31 +12,33 @@ Guilherme oliveira RM558797
 #### A FIAP propos ao seus alunos pensarem em como resolver um dos diversos problemas causados pelo ser humano e que afetam os oceanos e vida marinha
 ---
 ### Problema:
-Desde 1862, quando foi criado o primeiro plástico, esse material se tornou a matéria-prima mais produzida no mundo, devido à sua resistência, facilidade e baixo custo de fabricação. Atualmente, praticamente qualquer produto contém plástico. Produzido em escala global, o plástico é rapidamente descartado após um uso breve, seguindo para diversos destinos, como a reciclagem, aterros sanitários ou, infelizmente, acabando na natureza e nos oceanos.
-A poluição marinha vem atingindo níveis recordes devido ao descarte inadequado de plásticos. O problema se agrava à medida que esses plásticos (embalagens, garrafas, copos) se degradam em pedaços cada vez menores, os chamados microplásticos e nanoplásticos. Esses fragmentos minúsculos causam danos ainda maiores, pois são quase invisíveis a olho nu. Eles afetam os corais, diminuem a fotossíntese das bactérias marinhas responsáveis pela produção de oxigênio para o planeta e contribuem para a acidificação dos oceanos.
-Além disso, o plástico pode fazer o caminho ‘reverso’ e entrar na cadeia alimentar humana. Estudos mostram que microplásticos foram encontrados dentro do corpo humano, resultado da ingestão de frutos do mar contaminados. Essa presença de plástico no organismo humano levanta preocupações sobre possíveis impactos na saúde.
-Portanto, é crucial impedir que mais plásticos cheguem à natureza e aos oceanos e lidar com o plástico já presente nos oceanos, cuja quantidade já chega a 150 milhões de toneladas.
+
+À medida que a sociedade cresce, ocupa e afeta cada vez mais os ecossistemas naturais, como florestas, rios, atmosfera e oceanos, que ao longo do tempo, têm sido impactados negativamente de diversas maneiras. Os oceanos, em particular, são um exemplo crítico desse impacto. Por muitos anos, eles foram usados como depósito de resíduos, e hoje estão colapsando, principalmente devido à poluição marinha. Plásticos, canudos, esgoto e até mesmo lixo químico eram e são descartados nos oceanos, e essas ações agora revelam suas consequências: branqueamento de corais, morte de animais marinhos, presença de plásticos no organismo de peixes, praias impróprias para uso, entre outros problemas.
+Devido à vastidão dos oceanos, temos apenas uma noção parcial da real extensão desses danos. A falta de dados e a dificuldade na coleta de informações tornam possível que a situação atual dos oceanos seja ainda pior do que aparenta. Um problema crescente e ainda pouco compreendido é a presença de microplásticos, que são extremamente nocivos à natureza, mas quase invisíveis a olho nu.
+É essencial aumentarmos a quantidade de dados que possuímos sobre os oceanos. Isso é fundamental para analisar de maneira precisa o estado dos ecossistemas marinhos, realizar intervenções ecológicas mais eficazes e utilizar esses mesmos dados para auxiliar a sociedade como um todo. Por exemplo, com mais dados, poderemos identificar com precisão quais praias estão impróprias para uso e encontrar soluções para esses problemas.
 
 
 ### Nossa Solução
 
-Pensamos em um dispositivo de IoT simples para ser acoplado ao casco de embarcações pesqueiras. Este dispositivo terá dupla função. A primeira é atuar como um grande coletor de dados sobre o estado da água, medindo parâmetros como pH, amônia e iodo. Esses dados serão coletados continuamente e enviados para um banco de dados central, onde serão processados, analisados e usados para criar dashboards, mapas e uma série informações.
+Um  dispositivo de IoT simples para ser acoplado ao casco de embarcações pesqueiras. Este dispositivo terá dupla função. A primeira é atuar como um grande coletor de dados sobre o estado da água, medindo parâmetros como pH, amônia e iodo. Esses dados serão coletados continuamente e enviados para um banco de dados central, onde serão processados, analisados e usados para criar dashboards, mapas e uma série de informações.
 A segunda função, embora secundária, é filtrar a água enquanto a embarcação navega, removendo microplásticos e nanoplásticos. Quando o armazenamento do dispositivo estiver cheio, os navegadores poderão levar o material coletado a centros de coleta nos portos, onde poderão descartá-los
-Nosso objetivo é criar uma solução prática para a falta de dados sobre as águas dos oceanos e obter mais informações sobre as áreas de onde vêm os peixes selvagens que consumimos. A ideia é utilizar a infraestrutura já existente das embarcações pesqueiras, que poderão instalar o dispositivo e deixá-lo funcionando automaticamente enquanto realizam suas atividades habituais.
+O objetivo é criar uma solução prática para a falta de dados sobre as águas dos oceanos e obter mais informações sobre as áreas de onde vêm os peixes selvagens que consumimos. A ideia é utilizar a infraestrutura já existente das embarcações pesqueiras, que poderão instalar o dispositivo e deixá-lo funcionando automaticamente enquanto realizam suas atividades habituais.
 
 
-Nossa principal intenção é utilizar a infraestrutura já existente, especialmente a grande quantidade de barcos pesqueiros que já navegam pelos mares. Queremos começar "unindo o útil ao agradável", criando valor para os pescadores que adquirirem este dispositivo, ao mesmo tempo em que eles nos ajudam a aprimorar e melhorar nosso sistema.
+
+A principal intenção é utilizar a infraestrutura já existente, primeiramente a grande quantidade de barcos pesqueiros que já navegam pelos mares. Queremos começar "unindo o útil ao agradável", criando valor para os pescadores que adquirirem este dispositivo, ao mesmo tempo em que eles nos ajudam a aprimorar e melhorar nosso sistema.
 
 O dispositivo coleta dados sobre a qualidade da água, e nosso sistema os processa para criar um dashboard. Essa rede de dados mostrará onde a água está mais limpa, indicando regiões com peixes e outras mercadorias de pesca de melhor qualidade. Com base nesses dados, os pescadores poderão receber selos de qualidade para seus produtos, semelhantes aos selos de inspeção utilizados na pecuária, como o S.I.F.
 
 Dessa forma, os pescadores não apenas contribuirão para o monitoramento ambiental e a limpeza dos oceanos, mas também poderão aumentar o valor de seus produtos no mercado, obtendo reconhecimento pela qualidade superior de suas capturas.
 
-Nosso objetivo é criar uma estrutura de coleta de dados para as mais diversas funcionalidades. Queremos maximizar o uso da infraestrutura já existente nos oceanos, começando com os barcos pesqueiros, mas também considerando iniciativas para outros tipos de embarcações, como navios. Ao fazer isso, esperamos mapear os oceanos de forma mais abrangente e eficiente.
+O objetivo é criar uma estrutura de coleta de dados para as mais diversas funcionalidades. Queremos focar no uso da infraestrutura já existente nos oceanos, começando com os barcos pesqueiros, mas também considerando iniciativas para outros tipos de embarcações, como navios. Ao fazer isso, esperamos mapear os oceanos de forma mais completa e eficiente.
+
 
 
 ## Simulação Arduino
 
-#### Como apresentado a cima, o nosso IoT terá também como função secundária a constante coleta de dados das águas em que estão
+#### Como apresentado a cima, o nosso IoT terá tem como função  a constante coleta de dados das águas em que estão
 ---
 Criamos um circuito no tinkercad com o intuito de demostrar de maneira visual como seria a coleta de dados, fazemos o uso adaptado de alguns componentes para simular alguns tipos de informações coletadas
 
@@ -47,15 +49,17 @@ Criamos um circuito no tinkercad com o intuito de demostrar de maneira visual co
 - Potenciômetro (para simular o ph da água)
 - Protoboard
 - Arduino
+### Adpatação 
+Devido ao fato de estarmos fazendo o uso adpatado de algun compoentes, para simularmos o Ph é necessário fazer uma manipulação dos valores, igual costa no código.
 
 #### Lógica de funcionamento
-A intenção é que em um dos LCDs fique constantemente aparecendo asa informações coletadas pelos sensores (Partic, Temp, Ph)
+A intenção é que em um dos LCDs fique constantemente aparecendo as informações coletadas pelos sensores (Partic, Temp, Ph)
 
-Mas se um dessas medições extrapolar o um certo limite, aparecerá um alerta piscante dizendo qual medição está muito alta e um led referente ao sensor também começará a piscar.  
+Mas se um dessas medições extrapolar um certo limite, aparecerá um alerta no lcd secundário piscando e dizendo qual medição está muito alta e um led referente ao sensor também começará a piscar.  
 Os limites são de:
-- 600 para partículas
-- 30°c para temperatura
-- 6 para Ph
+- maior que 600 para partículas
+- maior que 30°c para temperatura
+- menor que 6 para Ph
 
 ![Tela de alerta](images/alertScreen.png)
 ![Led de alerta](images/ledAlert.png)
